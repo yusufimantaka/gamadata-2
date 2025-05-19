@@ -10,7 +10,7 @@ columns = [
 ]
 
 # Read CSV with skipped rows
-df = pd.read_csv('gini_ratio_merged.csv', skiprows=4, header=None)
+df = pd.read_csv('garis_kemiskinan_non-makanan_mentah.csv', skiprows=4, header=None)
 
 # Assign new column names
 df.columns = columns
@@ -20,4 +20,4 @@ df.replace('-', pd.NA, inplace=True)
 df.iloc[:, 1:-1] = df.iloc[:, 1:-1].apply(pd.to_numeric, errors='coerce')
 
 # Save cleaned data with 'out_' prefix to comply with sandbox rules
-df.to_csv('out_standardized_gini_data.csv', index=False)
+df.to_csv('standardized_nonmakanan', index=False)
