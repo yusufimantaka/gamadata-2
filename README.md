@@ -1,4 +1,4 @@
-# 📊 Predicting Indonesia’s Poverty Line (2025–2030)
+# 📊 Predicting Indonesia's Poverty Line (2025–2030)
 
 This repository contains a data science project that aims to **predict the national poverty line in Indonesia** for the next 2–5 years using historical data and socio-economic indicators.
 
@@ -46,12 +46,12 @@ To develop a predictive model that can estimate the future **Tingkat Garis Kemis
 
 | Stage | Description | Status |
 |-------|-------------|--------|
-| Topic & Domain Research | Understand the poverty line context | 🔲 Not started |
-| Main Data | Collect and preprocess main BPS dataset | 🔲 Not started |
-| Additional Data | Gather supporting indicators | 🔲 Not started |
-| Modeling & Prediction | Apply forecasting models | 🔲 Not started |
-| Visualization | Create graphs and dashboards | 🔲 Not started |
-| Media | Prepare presentation and documentation | 🔲 Not started |
+| Topic & Domain Research | Understand the poverty line context | ▶️ Finished |
+| Main Data | Collect and preprocess main BPS dataset | ▶️ Finished |
+| Additional Data | Gather supporting indicators | ▶️ Finished |
+| Modeling & Prediction | Apply forecasting models | ▶️ Finished |
+| Visualization | Create graphs and dashboards | ▶️ Finished |
+| Media | Prepare presentation and documentation | 🔲 Not finished |
 
 ---
 
