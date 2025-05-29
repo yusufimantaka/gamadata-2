@@ -6,32 +6,6 @@ This repository contains a data science project that aims to **predict the natio
 
 To develop a predictive model that can estimate the future **Tingkat Garis Kemiskinan Nasional** (National Poverty Line) of Indonesia, using publicly available data from BPS (Badan Pusat Statistik) and additional socio-economic datasets.
 
----
-
-## 🧩 Project Structure
-
-| Module | Description |
-|--------|-------------|
-| 📘 `01_Topik & Domain Knowledge/` | Contains topic background, problem formulation, and domain literature |
-| 📊 `02_Main Data/` | The main dataset from BPS on poverty lines by district/city |
-| ➕ `03_Additional Data/` | Supporting data (GDP per capita, unemployment rate, population, etc.) |
-| 📈 `04_Visualisasi & Prediksi/` | Code and outputs for data visualization and model prediction |
-| 🎨 `05_Design & Media/` | Visual identity, slide decks, and media assets |
-
----
-
-## 📂 Data Sources
-
-- **Main Dataset**: [Garis Kemiskinan per Kabupaten/Kota – BPS](https://www.bps.go.id/id/statistics-table/2/NjI0Iz/=garis-kemiskinan-menurut-kabupaten-kota.html)
-
-### Additional data to be collected:
-- 🧾 **Income per capita / Pendapatan rata-rata**
-- 💵 **GDP per capita**
-- 📉 **Unemployment rate** per region
-- 👥 **Total population** by district/city
-- 📚 Possibly other relevant indicators (e.g., education index, HDI)
-
----
 
 ## 🛠️ Methods & Tools
 
